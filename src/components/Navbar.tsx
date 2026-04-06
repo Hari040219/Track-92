@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between py-3 md:py-4 px-4">
         <a href="#" className="flex items-center gap-2">
           <span className="text-xl md:text-2xl font-heading font-bold text-gradient tracking-widest">
-            EXALTER
+            NEW TOP GEAR
           </span>
         </a>
 

@@ -1,4 +1,4 @@
-# Exalter
+# New Top Gear
 
 This project is a React application built with:
 - Vite

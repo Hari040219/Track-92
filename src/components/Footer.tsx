@@ -7,7 +7,7 @@ const Footer = () => (
         {/* Brand */}
         <div className="col-span-2 lg:col-span-1">
           <h3 className="text-xl md:text-2xl font-heading font-bold text-gradient mb-3 md:mb-4 tracking-widest">
-            TACK 92
+            EXALTER
           </h3>
           <p className="font-body text-xs md:text-sm text-muted-foreground leading-relaxed">
             Your one-stop shop for premium car accessories. Drive in style, arrive in confidence.
@@ -52,11 +52,11 @@ const Footer = () => (
             </li>
             <li className="flex items-center gap-2">
               <Phone className="w-4 h-4 text-primary flex-shrink-0" />
-              (555) 092-TACK
+              (555) 092-EXALTER
             </li>
             <li className="flex items-center gap-2">
               <Mail className="w-4 h-4 text-primary flex-shrink-0" />
-              hello@tack92.com
+              hello@exalter.com
             </li>
           </ul>
         </div>
@@ -64,7 +64,7 @@ const Footer = () => (
 
       <div className="border-t border-border pt-6 flex flex-col sm:flex-row justify-between items-center gap-4">
         <p className="font-body text-xs text-muted-foreground">
-          © 2025 Tack 92. All rights reserved.
+          © 2025 Exalter. All rights reserved.
         </p>
         <div className="h-1 w-20 bg-gradient-primary rounded-full" />
       </div>

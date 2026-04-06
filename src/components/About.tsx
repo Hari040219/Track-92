@@ -40,7 +40,7 @@ const About = () => (
             Built For <span className="text-gradient">Car Lovers</span>
           </h2>
           <p className="font-body text-sm md:text-base text-muted-foreground leading-relaxed mb-4">
-            Tack 92 was born from a passion for cars and the drive to make every ride look and feel extraordinary. We handpick every product to ensure top-tier quality and style.
+            Exalter was born from a passion for cars and the drive to make every ride look and feel extraordinary. We handpick every product to ensure top-tier quality and style.
           </p>
           <p className="font-body text-sm md:text-base text-muted-foreground leading-relaxed">
             Whether you're a weekend warrior or a daily driver, our curated collection of accessories helps you express your personality on the road.
